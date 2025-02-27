@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JFrancoTGR, graphic designer from profesion. Passionate about learning de world of te web.
+- 👋 Hi, I’m @JFrancoTGR, graphic designer from profesion. Passionate about learning the world of the web.
 - 👀 I’m interested in learning this whole new world for me that is programming :)
 - 🌱 I’m currently learning how to use Git and Github, aswell as other programming languages. I want to become a fullstack web developer.
 - 💞️ I’m looking to collaborate on any project related to the front end, UI, UX
